@@ -1,2 +1,2 @@
 # speech2sculpt
-Generate 3D printable mesh using speech prompts
+Generate 3D-Printable Meshes through Speech Prompts
