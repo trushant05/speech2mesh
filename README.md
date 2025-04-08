@@ -1,4 +1,4 @@
-# 🗣️ Speech2Mesh
+# Speech2Mesh
 
 **Speech2Mesh** is an end-to-end pipeline that transforms spoken language into 3D printable mesh models—no CAD tools or technical design skills needed. It leverages the power of generative AI and 3D reconstruction to make 3D modeling accessible and intuitive.
 
